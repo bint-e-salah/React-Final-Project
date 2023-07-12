@@ -12,7 +12,7 @@ import ProductPage from './pages/ProductPage'
 import CategoriesSection from './Components/CategoriesSection'
 export default function App() {
 
-  const [user, setUser] = useState(false)
+  const [user, setUser] = useState(true)
   return (
     <>
 
